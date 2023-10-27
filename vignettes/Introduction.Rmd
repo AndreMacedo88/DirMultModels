@@ -1,0 +1,26 @@
+---
+title: "Introduction"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Setup
+## Install the latest development version from GitHub:
+```{r install}
+devtools::install_github("AndreMacedo88/DirMultModels")
+```
+
+## Use library inside R with: 
+```{r setup}
+library(DirMultModels)
+```
