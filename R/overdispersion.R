@@ -12,6 +12,7 @@
 #' @param coefs The Coefficients or the number of coefficients.
 #' @param method The method of estimating overdispersion. One of "Afroz", "Pearson", "Fletcher", or "Deviance". "Afroz" is recommended.
 #' @param number_samples The number of samples that were fitted. Usually the number of rows in the matrix fitted (\code{y}). Only necessary if providing a flattened \code{y}.
+#' @param weight TODO
 #' 
 #' @return The estimation for overdispersion.
 #' @export

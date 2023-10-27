@@ -1,5 +1,5 @@
 Package: DirMultModels
-Title: Dirichlet multinomial modelling allowing for manual control of the dispersion parameter.
+Title: Dirichlet multinomial modelling allowing for manual control of the dispersion parameter
 Version: 0.0.1
 Authors@R: 
     c(

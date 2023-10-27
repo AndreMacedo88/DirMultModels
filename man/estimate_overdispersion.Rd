@@ -23,6 +23,8 @@ estimate_overdispersion(
 \item{method}{The method of estimating overdispersion. One of "Afroz", "Pearson", "Fletcher", or "Deviance". "Afroz" is recommended.}
 
 \item{number_samples}{The number of samples that were fitted. Usually the number of rows in the matrix fitted (\code{y}). Only necessary if providing a flattened \code{y}.}
+
+\item{weight}{TODO}
 }
 \value{
 The estimation for overdispersion.
