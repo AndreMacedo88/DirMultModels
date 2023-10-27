@@ -1,3 +1,4 @@
 .vscode
 inst/doc
 **/*.html
+docs
