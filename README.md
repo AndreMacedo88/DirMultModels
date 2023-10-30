@@ -1,5 +1,8 @@
 # DirMultModels
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/AndreMacedo88/DirMultModels/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/AndreMacedo88/DirMultModels/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
 
 ## Setup
 
